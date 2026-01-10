@@ -17,22 +17,22 @@ The goal of this repository is to demonstrate practical, operational understandi
 
 ### Folder Overview
 
-- **01-learning-notes/**  
+- **01-learning-notes**  
   Concise notes written in my own words while learning EU compliance fundamentals.
 
-- **02-compliance-artifacts/**  
+- [**02-compliance-artifacts**](02-compliance-artifacts/REACH-compliance-checklist.md)  
   Practical compliance deliverables such as checklists, SOPs, and risk registers.
 
-- **03-qms-effivity-style/**  
+- **03-qms-effivity-style**  
   QMS-style compliance workflows (issues, root cause analysis, CAPA, document control).
 
-- **04-analytics/**  
+- **04-analytics**  
   Compliance KPIs and dashboard logic (Power BI–oriented).
 
-- **05-ip-awareness/**  
+- **05-ip-awareness**  
   Patent-awareness work (non-attorney) to understand IP–regulatory boundaries.
 
-- **06-reflections/**  
+- **06-reflections**  
   Weekly learning reflections and career notes.
 
 
