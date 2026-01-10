@@ -1,3 +1,5 @@
+## This repository documents my structured learning and practical work toward a REACH Compliance / Chemicals Regulatory role, including compliance artifacts, QMS workflows, analytics, and regulatory notes.
+
 # EU Compliance & IP Operations Portfolio
 
 This repository documents my structured learning and practical portfolio development in:
