@@ -21,7 +21,7 @@ The goal of this repository is to demonstrate practical, operational understandi
   Concise notes written in my own words while learning EU compliance fundamentals.
 
 - ## [**02-compliance-artifacts**](02-compliance-artifacts)  
-  Practical compliance deliverables such as REACH checklists, SOPs, and risk registers.
+  Practical compliance deliverables such as REACH checklist, SOPs, and risk registers.
 
 - ## **03-qms-effivity-style**  
   QMS-style compliance workflows (issues, root cause analysis, CAPA, document control).
