@@ -20,7 +20,7 @@ The goal of this repository is to demonstrate practical, operational understandi
 - **01-learning-notes**  
   Concise notes written in my own words while learning EU compliance fundamentals.
 
-- [**02-compliance-artifacts**](02-compliance-artifacts/REACH-compliance-checklist.md)  
+- [**02-compliance-artifacts**](02-compliance-artifacts)  
   Practical compliance deliverables such as checklists, SOPs, and risk registers.
 
 - **03-qms-effivity-style**  
