@@ -179,7 +179,7 @@ Understanding:
 - **What data is required**
 
 is essential for compliance and professional practice in EU chemical regulation.
-
+---
 ---
 
 *This document is part of my REACH compliance learning.*
