@@ -11,6 +11,6 @@ Practical compliance deliverables such as checklists, SOPs, and risk registers.
 
 * ## [Supplier_REACH_Questionnaire](https://github.com/aman-09064/eu-compliance-ip-portfolio/blob/main/02-compliance-artifacts/Supplier-REACH-Questionnaire.md)
 
-* ## Article_33_Communication_Template.md
+* ## [Article_33_Communication_Template.md](https://github.com/aman-09064/eu-compliance-ip-portfolio/blob/main/02-compliance-artifacts/article33-communication-template.md)
 
-* ## Restriction_Compliance_Checklist.md
+* ## [Restriction_Compliance_Checklist.md]()
