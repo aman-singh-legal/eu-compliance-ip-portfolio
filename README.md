@@ -17,7 +17,7 @@ The goal of this repository is to demonstrate practical, operational understandi
 
 ### Folder Overview
 
-- ## **01-learning-notes**  
+- ## [**01-learning-notes**](https://github.com/aman-09064/eu-compliance-ip-portfolio/tree/main/01-learning-notes)  
   Concise notes written in my own words while learning EU compliance fundamentals.
 
 - ## [**02-compliance-artifacts**](02-compliance-artifacts)  
